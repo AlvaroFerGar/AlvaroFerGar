@@ -1,6 +1,6 @@
 ## Hola 🤙
 <div id="header" align="center" style="margin-bottom: 100px;">
-  <img src="https://www.irishnews.com/resizer/v2/YEBSIB4U7RLSTPXZ5CJBMFHSOE.jpg?auth=a9ccc4f21a0dd923e34558d59e5a14e072a3ef948c12817533f61ae85cc24a89&width=800&height=600" width="800"/>
+  <img src="https://www.irishnews.com/resizer/v2/YEBSIB4U7RLSTPXZ5CJBMFHSOE.jpg?auth=a9ccc4f21a0dd923e34558d59e5a14e072a3ef948c12817533f61ae85cc24a89&width=800&height=600" width="300"/>
 </div>
 
 
