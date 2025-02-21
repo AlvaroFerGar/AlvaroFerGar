@@ -20,6 +20,7 @@ Feel free to explore, ask questions, and take anything you find useful!
 ---
 
 I have some pages hosted on GitHub Pages. Check them out!
+* [Swordy Island 🏴‍☠️][https://alvarofergar.github.io/swordy-island] - 3D Monkey Island fan game with dynamic lights and path planning, built with three.js
 * [HELIOS 🌌](https://alvarofergar.github.io/HELIOS/) - University porject for 3D constellation visualization using three.js
 * [ITCO 🎪](https://alvarofergar.github.io/ITCO/) - Inmmersive AR experience for mobile phone
 * [Balance 🔲](https://alvarofergar.github.io/Balance/) - Zen demo game about achieving equilibrium with balls, built with paper.js
